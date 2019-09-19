@@ -1,3 +1,7 @@
+# Hacker Ranks Code Challenges
+
+1. [Sock Merchant](#sock-merchant)
+
 
 # Sock Merchant
 
